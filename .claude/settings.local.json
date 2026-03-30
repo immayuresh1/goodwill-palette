@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(cp \"/Users/mayureshmusale/Downloads/IMG_4498.JPG\" \"/Users/mayureshmusale/GoodWill Palette/public/images/goodwill-logo.jpg\")",
+      "Bash(cp \"/Users/mayureshmusale/Downloads/IMG_4499.JPG\" \"/Users/mayureshmusale/GoodWill Palette/public/images/ira-venture-logo.jpg\")",
+      "Bash(find /Users/mayureshmusale -maxdepth 3 -name IMG_449*.JPG -o -name IMG_449*.jpg -o -name IMG_449*.png -o -name IMG_449*.jpeg)",
+      "Bash(npm run:*)",
+      "Bash(firebase deploy:*)"
+    ]
+  }
+}
